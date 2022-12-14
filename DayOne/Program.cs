@@ -2,10 +2,8 @@
 
 namespace DayOne
 {
-
     class Program
     {
-
         static int Calc_Largest_Cal(string[] l)
         {
             int total = 0;
