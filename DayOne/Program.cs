@@ -49,8 +49,6 @@ namespace DayOne
                 {
                     third = elf_total[j];
                 }
-
-
             }
 
             return first + second + third;

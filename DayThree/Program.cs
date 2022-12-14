@@ -73,9 +73,6 @@
                 }
             }
 
-
-           
-
             return total;
         }
 

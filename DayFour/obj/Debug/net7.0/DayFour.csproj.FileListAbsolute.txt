@@ -1,0 +1,15 @@
+C:\Users\Jaden\VSRepos\AOC\DayFour\bin\Debug\net7.0\DayFour.exe
+C:\Users\Jaden\VSRepos\AOC\DayFour\bin\Debug\net7.0\DayFour.deps.json
+C:\Users\Jaden\VSRepos\AOC\DayFour\bin\Debug\net7.0\DayFour.runtimeconfig.json
+C:\Users\Jaden\VSRepos\AOC\DayFour\bin\Debug\net7.0\DayFour.dll
+C:\Users\Jaden\VSRepos\AOC\DayFour\bin\Debug\net7.0\DayFour.pdb
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.csproj.AssemblyReference.cache
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.AssemblyInfoInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.AssemblyInfo.cs
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.dll
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\refint\DayFour.dll
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.pdb
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\DayFour.genruntimeconfig.cache
+C:\Users\Jaden\VSRepos\AOC\DayFour\obj\Debug\net7.0\ref\DayFour.dll
