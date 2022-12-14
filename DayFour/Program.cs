@@ -2,7 +2,6 @@
 {
     class Program
     {
-        //test
         static int CalculateSections(string[] input)
         {
             int total = 0;
