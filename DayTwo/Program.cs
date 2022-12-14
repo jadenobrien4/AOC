@@ -1,10 +1,8 @@
 ﻿
 namespace DayTwo
 {
-
     class Program
     {
-
         static int CalculateScorePartTwo(string[] input)
         {
             int score = 0;
