@@ -1,0 +1,15 @@
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\DayOne.exe
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\DayOne.deps.json
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\DayOne.runtimeconfig.json
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\DayOne.dll
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\ref\DayOne.dll
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\bin\Debug\net6.0\DayOne.pdb
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.csproj.AssemblyReference.cache
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.AssemblyInfoInputs.cache
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.AssemblyInfo.cs
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.csproj.CoreCompileInputs.cache
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.dll
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\ref\DayOne.dll
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.pdb
+C:\Users\jaden\OneDrive\Documents\VSC#\AOC\DayOne\obj\Debug\net6.0\DayOne.genruntimeconfig.cache
