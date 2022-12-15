@@ -1,0 +1,15 @@
+C:\Users\Jaden\VSRepos\AOC\DayFive\bin\Debug\net7.0\DayFive.exe
+C:\Users\Jaden\VSRepos\AOC\DayFive\bin\Debug\net7.0\DayFive.deps.json
+C:\Users\Jaden\VSRepos\AOC\DayFive\bin\Debug\net7.0\DayFive.runtimeconfig.json
+C:\Users\Jaden\VSRepos\AOC\DayFive\bin\Debug\net7.0\DayFive.dll
+C:\Users\Jaden\VSRepos\AOC\DayFive\bin\Debug\net7.0\DayFive.pdb
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.csproj.AssemblyReference.cache
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.AssemblyInfoInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.AssemblyInfo.cs
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.dll
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\refint\DayFive.dll
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.pdb
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\DayFive.genruntimeconfig.cache
+C:\Users\Jaden\VSRepos\AOC\DayFive\obj\Debug\net7.0\ref\DayFive.dll
