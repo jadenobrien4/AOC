@@ -49,7 +49,6 @@ namespace DayTwo
 
             return score;
         }
-
         static int CalculateScore(string[] input)
         {
             int score = 0;
