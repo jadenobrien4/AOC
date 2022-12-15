@@ -99,11 +99,11 @@ namespace DayTwo
 
         static void Main()
         {
-            //int total_score = CalculateScore(System.IO.File.ReadAllLines("test.txt"));
-            //Console.WriteLine(total_score);
+            int total_score = CalculateScore(System.IO.File.ReadAllLines("InputApy.txt"));
+            Console.WriteLine(total_score);
 
-            int total_score_2 = CalculateScorePartTwo(System.IO.File.ReadAllLines("Input.txt"));
-            Console.WriteLine(total_score_2);
+            // int total_score_2 = CalculateScorePartTwo(System.IO.File.ReadAllLines("Input.txt"));
+            // Console.WriteLine(total_score_2);
         }
 
     }
