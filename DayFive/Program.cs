@@ -2,8 +2,8 @@
 {
     class Program
     {
-        static List<List<char>> Crates; //Array of crates
-        static List<List<int>> Instructions;
+        static List<List<char>> Crates = null!; //List of crates
+        static List<List<int>> Instructions = null!; //List of instructions
         
         static void ReadGraph(string[] input) //Reads in graphic from input and assigns values into arrays representing the "Crates"
         {
@@ -83,7 +83,7 @@
 
         }
 
-        static void SortCrates()
+        static void SortCrates() // Use instructions to move items between crates
         {
             foreach(var instruct in Instructions)
             {
@@ -99,7 +99,7 @@
             }
         }
 
-        static void SortCratesPart2()
+        static void SortCratesPart2() // Use instructions to move items between crates keeping items in order
         {
             foreach(var instruct in Instructions)
             {
@@ -129,7 +129,7 @@
             }
         }
 
-        static void PrintAnswer() //Prints 2D List of any type
+        static void PrintAnswer() //Final Answer (Top item in each crate)
         {
             for(int i = 0; i < Crates.Count; i++)
             {
