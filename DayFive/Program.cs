@@ -148,7 +148,7 @@
             Crates = new List<List<char>>();
             Instructions = new List<List<int>>();
 
-            string[] input = System.IO.File.ReadAllLines("Input.txt");
+            string[] input = System.IO.File.ReadAllLines("Apy.txt");
 
             ReadGraph(input);
             ReadInstuctions(input);
