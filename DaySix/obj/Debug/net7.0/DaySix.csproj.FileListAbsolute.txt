@@ -1,0 +1,15 @@
+C:\Users\Jaden\VSRepos\AOC\DaySix\bin\Debug\net7.0\DaySix.exe
+C:\Users\Jaden\VSRepos\AOC\DaySix\bin\Debug\net7.0\DaySix.deps.json
+C:\Users\Jaden\VSRepos\AOC\DaySix\bin\Debug\net7.0\DaySix.runtimeconfig.json
+C:\Users\Jaden\VSRepos\AOC\DaySix\bin\Debug\net7.0\DaySix.dll
+C:\Users\Jaden\VSRepos\AOC\DaySix\bin\Debug\net7.0\DaySix.pdb
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.csproj.AssemblyReference.cache
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.AssemblyInfoInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.AssemblyInfo.cs
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.dll
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\refint\DaySix.dll
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.pdb
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\DaySix.genruntimeconfig.cache
+C:\Users\Jaden\VSRepos\AOC\DaySix\obj\Debug\net7.0\ref\DaySix.dll
