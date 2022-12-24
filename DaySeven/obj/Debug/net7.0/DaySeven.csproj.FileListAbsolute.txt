@@ -1,0 +1,15 @@
+C:\Users\Jaden\VSRepos\AOC\DaySeven\bin\Debug\net7.0\DaySeven.exe
+C:\Users\Jaden\VSRepos\AOC\DaySeven\bin\Debug\net7.0\DaySeven.deps.json
+C:\Users\Jaden\VSRepos\AOC\DaySeven\bin\Debug\net7.0\DaySeven.runtimeconfig.json
+C:\Users\Jaden\VSRepos\AOC\DaySeven\bin\Debug\net7.0\DaySeven.dll
+C:\Users\Jaden\VSRepos\AOC\DaySeven\bin\Debug\net7.0\DaySeven.pdb
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.csproj.AssemblyReference.cache
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.AssemblyInfoInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.AssemblyInfo.cs
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.dll
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\refint\DaySeven.dll
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.pdb
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\DaySeven.genruntimeconfig.cache
+C:\Users\Jaden\VSRepos\AOC\DaySeven\obj\Debug\net7.0\ref\DaySeven.dll
